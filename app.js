@@ -1,5 +1,5 @@
 // Git Learning Project - JavaScript
-
+// My git learning project
 console.log('Welcome to Git Learning Project!');
 
 // Simple greeting function
